@@ -10,7 +10,7 @@ def main():
 	#consumer.seek(0,2)
 	#connection to db
 	conn = Connection()
-	#conn.create_table('mstohive2',{'smsg':{}})
+	conn.create_table('mstohive2',{'smsg':{}})
 	table = conn.table('mstohive2')
 	while True:
 		msg_db = {}
