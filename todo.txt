@@ -1,0 +1,2 @@
+- install pyspark
+- install mapr-streams-python
