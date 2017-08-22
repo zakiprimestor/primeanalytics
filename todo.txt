@@ -1,2 +1,4 @@
 - install pyspark
 - install mapr-streams-python
+- deploy to poc system mapr 5.2.2 python mapr stream to hive
+- code and research spark streaming on mapr
